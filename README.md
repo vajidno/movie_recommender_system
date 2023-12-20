@@ -39,6 +39,9 @@ The movie recommender system is now accessible through a web app created with St
 
 Due to the large size of the similarity file, it has been compressed using the `gzip` module. The compressed file is named `similarity.pkl.gz`.
 
+**Explore the Movie Recommender System:** [Movie Recommender Web App](https://movierecommendersystem-5zw3bq7qhkeuci4iw2eerv.streamlit.app/)
+
+
 
 
 
